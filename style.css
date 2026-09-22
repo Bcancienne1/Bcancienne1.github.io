@@ -15,3 +15,38 @@ body {
   margin: 0 auto;
   padding: 32px 40px;
 }
+.my-box1 {
+  width: 400px;
+  height: 300px;
+  background-color: maroon;
+  border: 3px solid white;
+  color: white;
+}
+.my-box2 {
+  width: 400px;
+  height: 328px;
+  background-color: maroon;
+  border: 3px solid white;
+  color: white;
+}
+ul{
+  color: 
+}
+img{
+  border-color: black
+}
+h1{
+  color: white
+}
+main{
+  background-color: maroon
+}
+nav:hover{
+  background-color: white;
+}
+.my-box3 {
+  width: 400px;
+  height: 328px;
+  background-color: maroon;
+  border: 3px solid white;
+  color: white;

@@ -5,7 +5,10 @@ body {
  padding: 10px;
  font-family: arial sans-serif;
 }
-
+#all contents {
+  max-width: 800px;
+  margin: auto;
+}
 nav {
  display: flex;
  justify-content: space-between;
@@ -64,7 +67,7 @@ main {
  padding: 15px;
 }
 
-.sidebar img {
+.sidebar-img {
  width: 200px;
 }
 
